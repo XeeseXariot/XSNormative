@@ -1,0 +1,31 @@
+{
+  "xsn": {
+    "version": "3.3",
+    "status": "active",
+    "level": "DO"
+  },
+  "structure": {
+    "src": ["domain", "application", "infrastructure", "interfaces", "i18n", "shared"],
+    "root": ["tests", "config", "scripts", "docs"]
+  },
+  "quality": {
+    "coverage": {
+      "DO": null,
+      "RIGHT": 60,
+      "BETTER": 80
+    },
+    "testing": null
+  },
+  "i18n": {
+    "encoding": "UTF-8",
+    "standard": "BCP 47",
+    "references": ["ISO 639", "ISO 3166-1", "ISO 15897", "W3C Internationalization"],
+    "format": "JSON",
+    "fallback_locale": "en"
+  },
+  "api": {
+    "format": "JSON",
+    "spec": "RFC 8259",
+    "versioning": "/v{n}"
+  }
+}
