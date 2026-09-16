@@ -72,7 +72,7 @@ XSNormative/
 Clone y revise la documentación:
 
 ```bash
-git clone https://github.com/CheeseChariot/XSNormative.git
+git clone https://github.com/XeeseXariot/XSNormative.git
 cd XSNormative
 ```
 
@@ -94,4 +94,4 @@ Se agradece la atribución, pero no es obligatoria.
 
 ---
 
-*Mantenido por [@CheeseChariot](https://github.com/CheeseChariot)*
+*Mantenido por [@XeeseXariot](https://github.com/XeeseXariot)*
